@@ -6,6 +6,7 @@ OLIVE UI는 [OLIVE Platform](https://olive.kakao.com/)의 디자인을 제공하
 <hr />
 
 [![GitHub license](https://img.shields.io/badge/license-Apache2.0-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkakao%2Folive-ui.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkakao%2Folive-ui?ref=badge_shield)
 ![](src/assets/images/logo/olive-ui-main.png)
 
 OLIVE Platform은 [angular](https://angular.io/)와 [tailwindcss](https://tailwindcss.com/)를 기반으로 작성되었습니다.<br/>
@@ -49,3 +50,6 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkakao%2Folive-ui.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkakao%2Folive-ui?ref=badge_large)
